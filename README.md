@@ -15,3 +15,15 @@ sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
 
 ![image](https://user-images.githubusercontent.com/113097621/211169609-c098d8bc-d433-4c5b-b54a-89a0ec4eff9b.png)
 
+![image](https://user-images.githubusercontent.com/113097621/212553171-3667caa0-6e9b-482d-924c-65169f60a7f1.png)
+
+
+
+**Check that you have successfully connected to a remote MySQL server and can perform SQL queries:**
+
+Show databases;
+![image](https://user-images.githubusercontent.com/113097621/212553002-b6d39d70-7c70-45ef-9f43-1046c3819561.png)
+
+![image](https://user-images.githubusercontent.com/113097621/212553043-4cffe2f8-a948-4f0c-b52e-e4165f8c056b.png)
+
+
