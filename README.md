@@ -13,9 +13,11 @@ sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
 
 ![image](https://user-images.githubusercontent.com/113097621/211169430-71d13f35-1fec-4817-831f-7d09cf651406.png)
 
+![image](https://user-images.githubusercontent.com/113097621/212553171-3667caa0-6e9b-482d-924c-65169f60a7f1.png)
+
 ![image](https://user-images.githubusercontent.com/113097621/211169609-c098d8bc-d433-4c5b-b54a-89a0ec4eff9b.png)
 
-![image](https://user-images.githubusercontent.com/113097621/212553171-3667caa0-6e9b-482d-924c-65169f60a7f1.png)
+
 
 
 
